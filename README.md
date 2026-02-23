@@ -1,6 +1,6 @@
 # CiteMigrate
 
-A desktop application that converts Citavi citation field codes in Microsoft Word documents (.docx) to Zotero-compatible field codes with proper linkage to your Zotero library.
+A desktop application that converts Citavi citation field codes in Microsoft Word documents (.docx) to Zotero-compatible field codes with proper linkage to your Zotero library. (citavi to zotero migration)
 
 ## What it does
 
