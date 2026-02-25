@@ -20,7 +20,7 @@ If you've migrated your reference library from Citavi to Zotero but still have W
 
 ## Requirements
 
-- macOS, Windows, or Linux
+- macOS, Windows, or Linux (only tested under macOS)
 - Python 3.9 or higher
 - A Zotero account with your Citavi library already imported
 - A Zotero API key ([get one here](https://www.zotero.org/settings/keys))
@@ -30,7 +30,7 @@ If you've migrated your reference library from Citavi to Zotero but still have W
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Zuulira/citemigrate.git
+git clone https://github.com/iandus/citemigrate.git
 cd citemigrate
 
 # 2. Install dependencies
